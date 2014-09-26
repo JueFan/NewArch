@@ -1,0 +1,1 @@
+INSERT INTO node_hive (id, db, `table`, `field`, `value`, uid) VALUE(1943,'default','yy_webevent_original','eventid',20002663,27217);

@@ -1,0 +1,3 @@
+INSERT INTO node (id,pid, NAME, uid) VALUE(1939,183,'测试一下',27217);
+INSERT INTO node (id,pid, NAME, uid) VALUE(1941,1939,'电视直播',27217);
+INSERT INTO node (id,pid, NAME, uid) VALUE(1943,1941,'更多预告',27217);

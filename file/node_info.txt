@@ -1,0 +1,1 @@
+INSERT INTO node_info (id, pc, web, mobile, `from`, label,description, uid) VALUE(1943,0,1,0,'stanag','20002663','记录用户点击该位置的人数、次数',27217);
